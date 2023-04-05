@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetU*1_18 Pin=U*1-18
+Added Pin To Net: NetName=NetU*1_18 Pin=X8-1
+Added Net: Name=NetU*1_18
+Added Pin To Net: NetName=NetU*1_19 Pin=U*1-19
+Added Pin To Net: NetName=NetU*1_19 Pin=X8-2
+Added Net: Name=NetU*1_19

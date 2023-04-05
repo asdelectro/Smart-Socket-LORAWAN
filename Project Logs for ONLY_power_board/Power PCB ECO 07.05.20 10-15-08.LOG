@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=X5 NewDesignator=IO1/IO2
+Change Component Designator: OldDesignator=X6 NewDesignator=GND
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetIO1/IO2_1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetIO1/IO2_2

@@ -1,0 +1,24 @@
+Added Component: Designator=U*(iM880B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture"; Value = "IMST"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: u.Fl)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "6GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/U.FL-R-SMT-01/H9161-ND/513010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "U.FL-R-SMT(01)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector u.FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector u.FL, 50 Ohm, 6GHz"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: USB micro-A (ZX62-B-5PA))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""USB""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/ZX62-B-5PA/H11579CT-ND/1851090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ZX62-B-5PA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "USB micro B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "USB micro B"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power1 Member=Component U* iM880B-L
+Added Member To Class: ClassName=Power1 Member=Component X? Connector u.FL, 50 Ohm, 6GHz
+Added Member To Class: ClassName=Power1 Member=Component X? USB micro B

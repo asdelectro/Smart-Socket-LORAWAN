@@ -1,0 +1,250 @@
+Removed Pin From Net: NetName=5V DC Pin=X6-1
+Removed Pin From Net: NetName=NetR1_2 Pin=X6-2
+Removed Pin From Net: NetName=NetC7_1 Pin=X6-3
+Removed Pin From Net: NetName=NetC8_2 Pin=X6-4
+Removed Pin From Net: NetName=NetR3_2 Pin=X6-5
+Removed Pin From Net: NetName=GND Pin=X6-6
+Change Component Footprint: Designator=X6 Old Footprint=CON: PLS-6 New Footprint=CON: USB micro-A (ZX62-B-5PA)
+Change Component Comment : Designator=X6 Old Comment=Connector, 6pin, 2.54mm, 500VAC, 3A New Comment=USB micro B
+Change component parameters: Designator = "X6"; Footprint = "CON: USB micro-A (ZX62-B-5PA)"; UniqueID = "\REHHHUXH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""USB""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/ZX62-B-5PA/H11579CT-ND/1851090"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "ZX62-B-5PA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "USB micro B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "USB micro B"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, Voltage, 0805, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOT23-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "IC USB isolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "1Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/usblc6-4sc6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "USBLC6-4SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "3...5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDuplex"; Value = "Half-duplex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC USB isolator, 1Mbps, Half-duplex, 3...5.5V, -55...+105°C, SOT-23-6"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 22R, Tolerance, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 22R, Tolerance, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 47K, Tolerance, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, Tolerance, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, Tolerance, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES: 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1R, Tolerance, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=U*1(iM880B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture"; Value = "IMST"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(LED: 0805G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, Green, *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X8(CON: PLS-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""UART1""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 3pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X9(CON: PLS-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""SWD""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "5pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 5pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X10(CON: u.Fl)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Frequency"; Value = "6GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/U.FL-R-SMT-01/H9161-ND/513010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "U.FL-R-SMT(01)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector u.FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector u.FL, 50 Ohm, 6GHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=5V USB Pin=D4-5
+Added Pin To Net: NetName=V 3.3 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=V 3.3 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=U*1-1
+Added Pin To Net: NetName=GND Pin=U*1-6
+Added Pin To Net: NetName=GND Pin=U*1-11
+Added Pin To Net: NetName=GND Pin=U*1-16
+Added Pin To Net: NetName=V 3.3 Pin=U*1-17
+Added Pin To Net: NetName=GND Pin=U*1-22
+Added Pin To Net: NetName=GND Pin=U*1-26
+Added Pin To Net: NetName=GND Pin=U*1-27
+Added Pin To Net: NetName=GND Pin=U*1-30
+Added Pin To Net: NetName=GND Pin=U*1-32
+Added Pin To Net: NetName=GND Pin=VD7-2
+Added Pin To Net: NetName=5V USB Pin=X6-1
+Added Pin To Net: NetName=GND Pin=X8-3
+Added Pin To Net: NetName=V 3.3 Pin=X9-1
+Added Pin To Net: NetName=GND Pin=X9-3
+Added Pin To Net: NetName=GND Pin=X10-2
+Added Pin To Net: NetName=GND Pin=X10-2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R19-1
+Added Pin To Net: NetName=NetC12_2 Pin=U*1-7
+Added Pin To Net: NetName=NetC12_2 Pin=X9-5
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R18-1
+Added Pin To Net: NetName=NetD4_1 Pin=X6-3
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_6 Pin=D4-6
+Added Pin To Net: NetName=NetD4_6 Pin=R17-1
+Added Pin To Net: NetName=NetD4_6 Pin=X6-2
+Added Net: Name=NetD4_6
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U*1-2
+Added Pin To Net: NetName=NetR20_1 Pin=X9-2
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U*1-3
+Added Pin To Net: NetName=NetR21_1 Pin=X9-4
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=VD7-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U*1-5
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetU*1_4 Pin=U*1-4
+Added Net: Name=NetU*1_4
+Added Pin To Net: NetName=NetU*1_8 Pin=U*1-8
+Added Net: Name=NetU*1_8
+Added Pin To Net: NetName=NetU*1_9 Pin=U*1-9
+Added Net: Name=NetU*1_9
+Added Pin To Net: NetName=NetU*1_18 Pin=U*1-18
+Added Pin To Net: NetName=NetU*1_18 Pin=X8-1
+Added Net: Name=NetU*1_18
+Added Pin To Net: NetName=NetU*1_20 Pin=U*1-20
+Added Net: Name=NetU*1_20
+Added Pin To Net: NetName=NetU*1_21 Pin=U*1-21
+Added Net: Name=NetU*1_21
+Added Pin To Net: NetName=NetU*1_29 Pin=U*1-29
+Added Net: Name=NetU*1_29
+Added Pin To Net: NetName=NetU*1_31 Pin=U*1-31
+Added Pin To Net: NetName=NetU*1_31 Pin=X10-1
+Added Net: Name=NetU*1_31
+Added Pin To Net: NetName=NetX6_0 Pin=X6-0
+Added Pin To Net: NetName=NetX6_0 Pin=X6-0
+Added Pin To Net: NetName=NetX6_0 Pin=X6-0
+Added Pin To Net: NetName=NetX6_0 Pin=X6-0
+Added Pin To Net: NetName=NetX6_0 Pin=X6-0
+Added Pin To Net: NetName=NetX6_0 Pin=X6-0
+Added Pin To Net: NetName=NetX6_0 Pin=X6-5
+Added Net: Name=NetX6_0
+Added Pin To Net: NetName=NetX8_2 Pin=X8-2
+Added Net: Name=NetX8_2
+Added Member To Class: ClassName=Power1 Member=Component C12 Ceramic capacitor, 0.1?F, X7R, ±10%, Voltage, 0805, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component D4 IC USB isolator, 1Mbps, Half-duplex, 3...5.5V, -55...+105°C, SOT-23-6
+Added Member To Class: ClassName=Power1 Member=Component R17 Resistor film, 22R, Tolerance, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component R18 Resistor film, 22R, Tolerance, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component R19 Resistor film, 47K, Tolerance, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component R20 Resistor film, 1K, Tolerance, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component R21 Resistor film, 1K, Tolerance, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component R22 Resistor film, 1R, Tolerance, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Power1 Member=Component U*1 iM880B-L
+Added Member To Class: ClassName=Power1 Member=Component VD7 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=Power1 Member=Component X8 Connector, 3pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Power1 Member=Component X9 Connector, 5pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Power1 Member=Component X10 Connector u.FL, 50 Ohm, 6GHz

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=ERTH01 NewDesignator=U*1
+Added Pin To Net: NetName=NetC8_2 Pin=U*1-4
+Added Pin To Net: NetName=NetR3_2 Pin=U*1-20
+Added Pin To Net: NetName=NetC7_1 Pin=U*1-21
+Change Net Name : Old Net Name=NetC7_1 New Net Name=IN2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=IN1
+Added Room: Name=Power1

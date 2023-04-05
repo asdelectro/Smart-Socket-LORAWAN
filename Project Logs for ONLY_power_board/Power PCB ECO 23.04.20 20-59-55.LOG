@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=IN220 NewDesignator=X1
+Change Component Designator: OldDesignator=OUT1 NewDesignator=X2
+Change Component Designator: OldDesignator=OUT2 NewDesignator=X3
+Added Component: Designator=Li-ion(CON: PLS-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=U*(iM880B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture"; Value = "IMST"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V DC Pin=Li-ion-1
+Added Pin To Net: NetName=GND Pin=Li-ion-2
+Added Member To Class: ClassName=Power1 Member=Component Li-ion Connector, 2pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Power1 Member=Component U* iM880B-L
+Added Room: Name=Power1

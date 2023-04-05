@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetU*1_18 Pin=X8-1
+Added Pin To Net: NetName=NetU*1_18 Pin=X8-2
+Change Net Name : Old Net Name=NetVD5_1 New Net Name=NetLi_1
+Added Pin To Net: NetName=NetX8_1 Pin=X8-1
+Added Net: Name=NetX8_1
+Added Room: Name=Power1

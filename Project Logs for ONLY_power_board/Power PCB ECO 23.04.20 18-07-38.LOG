@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=220IN NewDesignator=X1
+Added Component: Designator=U*(iM880B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture"; Value = "IMST"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power1 Member=Component U* iM880B-L
+Added Room: Name=Power1

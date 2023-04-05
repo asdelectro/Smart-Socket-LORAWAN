@@ -1,0 +1,61 @@
+Change Component Footprint: Designator=Li Old Footprint=CON: PLS-2 New Footprint=CON: B2B-EH-A
+Added Component: Designator=X?(CON: B2B-EH-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B2B-EH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.5 mm, 250V, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: B2B-EH-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B2B-EH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.5 mm, 250V, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: B2B-EH-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B2B-EH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.5 mm, 250V, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: B2B-EH-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B2B-EH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.5 mm, 250V, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Net: Name=NetX?_1
+Added Pin To Net: NetName=NetX?_2 Pin=X?-2
+Added Pin To Net: NetName=NetX?_2 Pin=X?-2
+Added Pin To Net: NetName=NetX?_2 Pin=X?-2
+Added Net: Name=NetX?_2
+Added Member To Class: ClassName=Power1 Member=Component X? Connector, 2pin, 2.5 mm, 250V, 3A
+Added Member To Class: ClassName=Power1 Member=Component X? Connector, 2pin, 2.5 mm, 250V, 3A
+Added Member To Class: ClassName=Power1 Member=Component X? Connector, 2pin, 2.5 mm, 250V, 3A
+Added Member To Class: ClassName=Power1 Member=Component X? Connector, 2pin, 2.5 mm, 250V, 3A

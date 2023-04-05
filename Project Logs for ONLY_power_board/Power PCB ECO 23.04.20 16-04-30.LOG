@@ -1,0 +1,16 @@
+Added Component: Designator=FU1(FUSE: FH-100 (5x20 mm))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "01110501Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeFuse"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 250VAC, 10A, 5x20mm, Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=F Pin=FU1-1
+Added Pin To Net: NetName=F Pin=FU1-1
+Added Pin To Net: NetName=NetD1_2 Pin=FU1-2
+Added Pin To Net: NetName=NetD1_2 Pin=FU1-2
+Added Member To Class: ClassName=Power1 Member=Component FU1 Electromechanics relay, 250VAC, 10A, 5x20mm, Temperature
+Added Room: Name=Power1

@@ -1,0 +1,19 @@
+Added Component: Designator=K1(REL: RT314005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/9-1393239-1-rt314005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2NO+2NC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RT314(1)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeRelay"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 3VDC, 250VAC, 16A, 2NO+2NC, -40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageControlCoil"; Value = "3VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK1_11 Pin=K1-11
+Added Pin To Net: NetName=NetK1_12 Pin=K1-12
+Added Pin To Net: NetName=NetK1_14 Pin=K1-14
+Added Pin To Net: NetName=NetK1_A1 Pin=K1-A1
+Added Pin To Net: NetName=5V DC Pin=K1-A2
+Added Member To Class: ClassName=Power1 Member=Component K1 Electromechanics relay, 3VDC, 250VAC, 16A, 2NO+2NC, -40...+85°C
+Added Room: Name=Power1
